@@ -18,7 +18,9 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Citrouille86?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/nchantreau">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nchantreau?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-[![linkedin](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin)](https://www.linkedin.com/in/nchantreau/)
+  <a href="https://www.linkedin.com/in/nchantreau/">
+    <img alt="followers" title="Linkedin" src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin"/></a>
+
 
 #### Langages / Frameworks
 <img src="./assets/images/java.png" alt="java" title="Java"/>&nbsp;&nbsp; <img src="./assets/images/spring.ico" alt="spring" title="Spring"/>&nbsp;&nbsp; 
