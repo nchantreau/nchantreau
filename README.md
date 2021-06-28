@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ## :man_technologist:
-<a href="https://twitter.com/Citrouille86">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Citrouille86?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/nchantreau">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nchantreau?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://twitter.com/Citrouille86">
+    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/Citrouille86?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/nchantreau/">
-    <img alt="followers" title="Linkedin" src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin"/></a>
+    <img alt="followers" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-blue?color=236ad3&labelColor=1155ba&style=for-the-badge"/></a>
 
 
 #### Langages / Frameworks
